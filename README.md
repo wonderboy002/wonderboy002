@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nipun Kupatkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/474x/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.jpg"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/474x/91/7b/d7/917bd7ab61620a055bfd1d59e8e70f95.jpg"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wonderboy002&label=Profile%20views&color=0e75b6&style=flat" alt="wonderboy002" /> </p>
 
