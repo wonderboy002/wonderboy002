@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nipunkup@gmail.com**
 
-- ⚡ Fun fact **Coffee helps me to remain awake when working on projects**
+- ⚡ Fun fact **Even though i Write code that is buggy it still gets the job done**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
